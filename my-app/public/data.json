@@ -1,0 +1,56 @@
+[
+    {
+      "id": "61fb989256f61bab608dc4d1",
+      "brand":"TRIPR" ,
+      "category":"mens",
+      "title": "Solid Men Mandarin Collar Brown, Black T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/495/594/kj0bp8w0-0/t-shirt/p/h/k/xl-sk-701cutfut-nvy-wht-sidkrt-original-imafyz8ehf3hynfg.jpeg?q=50",
+      "price": 249,
+      "size": "S"
+    },
+    {
+      "id": "61fb989256f61bab608dc4d2",
+      "brand":"AUSK" ,
+      "category":"mens",
+      "title": "Color Block Men Round Neck Yellow, Blue T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/495/594/kzn17680/t-shirt/y/w/b/m-bblrn-z31-blive-original-imagbhywajhzhphz.jpeg?q=50",
+      "price": 500,
+      "size": "M"
+    },
+    {
+      "id": "61fb989256f61bab608dc4d3",
+      "brand":"BLIVE" ,
+      "category":"mens",
+      "title": "Printed Men Round Neck Navy Blue T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/495/594/kzllrbk0/t-shirt/b/6/d/l-bylrn-z31-blive-original-imagbkqgknxgmncw.jpeg?q=50",
+      "price": 1000,
+      "size":"L"
+    },
+    {
+      "id": "61fb989256f61bab608dc4d4",
+      "brand":"Eyebogler" ,
+      "category":"womens",
+      "title": "Solid Women Polo Neck Blue T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/495/594/kl8ccy80/top/s/i/n/m-t352-nbwh-eyebogler-original-imagyeehskcejknw.jpeg?q=50",
+      "price": 369,
+      "size": "XL"
+    },
+    {
+      "id": "61fb989256f61bab608dc4d5",
+      "brand":"LEWEL" ,
+      "category":"womens",
+      "title": "Printed, Geometric Print Women High Neck White, Black T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/495/594/kfoapow0-0/t-shirt/f/q/y/s-w09-fst-crack-white-lewel-original-imafw2gxzqw9xtzb.jpeg?q=50",
+      "price":399,
+      "size": "S"
+    },
+    {
+      "id": "61fb989256f61bab608dc4d6",
+      "brand":"Rebound" ,
+      "category":"womens",
+      "title": "Striped Women Round Neck Black T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/495/594/kwfaj680/t-shirt/r/x/6/m-rg6194-yes-no-original-imag943ng9su6xbj.jpeg?q=50",
+      "price": 138,
+      "size":"M"
+    }
+  ]

@@ -1,0 +1,17 @@
+.products-container{
+    margin-left: 20rem;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.product-image{
+    height: 200px;
+    width: 200px;
+}
+.product-content{
+    width: 200px;
+}
+.gap{
+    padding: 0 5px;
+}
